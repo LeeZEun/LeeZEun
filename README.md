@@ -17,8 +17,8 @@
 # 💚 Introduction 💚
 <img width="200px" src="https://github.com/BuddlIes/FrontEnd/assets/100847440/114a2fda-8af6-488a-a968-e0c1c4a80cf9"/>|
 |:-----:|
-|[이지은](https://github.com/LeeZEun)|
-|백엔드 개발 및 홍보 겸임 🧑‍💻|
+|[Jieun Lee](https://github.com/LeeZEun)|
+|Frontend Developer|
 </div>
 <br/><br/>
 
@@ -27,12 +27,15 @@
 # ✍️ Projects ✍️
 </div>
 
-### ☘️ 봉사자 구인 및 도움 요청 글 작성 기능
-### ☘️ 봉사 신청 기능 및 댓글 기능
-- 봉사 활동 신청 버튼 클릭시 신청 가능
-- 추후 socket.io를 이용한 채팅 기능으로 발전시킬 예정
-### ☘️ 봉사 활동 현황에 따른 리워드 차등 지급 기능
-- NFT를 이용하여 봉사 활동 점수에 따라 리워드를 차등으로 지급 가능
+### ☘️ 2020
+### ☘️ 2021
+### ☘️ 2022
+- Machine Learning Project
+- Mobile Programming Project
+- Serious Game Project
+### ☘️ 2023
+- Capstone Design
+- Paran Project
 ## 
 <br/><br/>
 
