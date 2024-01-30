@@ -1,17 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JieunLee&fontSize=90)
+<div align="center">
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=JieunLee&fontSize=90" />
 
-Welcome to JieunLee's Github
+# 🌿 Jieun Lee's Github 🌿 </br> Welcome to visit my Gitbuh  
 
 <a href="https://github.com/LeeZEun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=LeeZEun&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
 
 <a href="https://github.com/LeeZEun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeZEun&layout=compact&theme=nord&hide_border=true" /></a> 
 
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9FC700&height=150&section=header" />
-
-# 🌿 Buddle 🌿 </br> 교내 장애인 학우를 위한 봉사 활동 장려 웹 개발  
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
@@ -140,4 +136,4 @@ close는 이슈를 참조하면서 main 브랜치로 푸시될 때 이슈를 닫
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=9FC700&height=150&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer" />
