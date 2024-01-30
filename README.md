@@ -15,7 +15,7 @@
 <br/><br/>
 
 # 💚 Introduction 💚
-<img width="200px" src="https://github.com/BuddlIes/FrontEnd/assets/100847440/114a2fda-8af6-488a-a968-e0c1c4a80cf9"/>
+<img width="200px" src="https://github.com/BuddlIes/FrontEnd/assets/100847440/114a2fda-8af6-488a-a968-e0c1c4a80cf9"/>|
 |:-----:|
 |[이지은](https://github.com/LeeZEun)|
 |백엔드 개발 및 홍보 겸임 🧑‍💻|
