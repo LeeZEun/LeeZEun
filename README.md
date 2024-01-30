@@ -1,8 +1,8 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jieun Lee&fontSize=80" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Jieun Lee&fontSize=60" />
 
-# 🖥️ Jieun Lee's Github 🖥️ </br> Welcome to visit my Gitbuh  
+# 🖥️ Jieun Lee's Github 🖥️ </br></br> Welcome to visit
 
 <a href="https://github.com/LeeZEun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=LeeZEun&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
 
@@ -41,4 +41,4 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
