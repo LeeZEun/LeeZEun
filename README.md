@@ -27,6 +27,7 @@
 |[Jieun Lee](https://github.com/LeeZEun)|
 |Frontend Developer|
 </div>
+Email: thwe2g#gmail.com
 <br/><br/></br>
 
 <div align="center">
