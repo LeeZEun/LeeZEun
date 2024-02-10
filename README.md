@@ -67,7 +67,7 @@
 - [자전거 관리 어플리케이션 'S-BA' 제작](https://github.com/safe-bicycle-assistant/s-ba)
 - ADHD 아동을 위한 시리어스 게임 'MIXMATCH' 기획
 ### ☘️ 2023-2
-- [종합적인 화장품 관리 및 추천 어플리케이션 'BeautyMinder' 제작](https://github.com/LeeZEun/BeautyMinder)
+- [종합적인 화장품 관리 및 추천 어플리케이션 'BeautyMinder' 제작](https://github.com/beminder/BeautyMinder)
 - [교내 장애 학우들을 위한 봉사 장려 웹 '버들' 제작](https://github.com/BuddlIes/BackEnd)
 
 ## 
