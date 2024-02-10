@@ -61,7 +61,7 @@
 - ['이기종 플랫폼 간 UI 분산 지원을 위한 모바일 프레임워크' 연구](https://github.com/LeeZEun/WEB_FLUID)
 - ['멀티서피스 상호작용을 위한 앱 변환 프레임워크: Runtime Configuration' 연구](https://github.com/LeeZEun/WEB_FLUID)
 - [스레드 단위 분산 컵퓨팅 'Thread Offloading' 프로젝트](https://github.com/LeeZEun/DistributedSystem)
-- 나만의 간단한 포트폴리오 웹페이지 제작 프로젝트
+- [나만의 간단한 포트폴리오 웹페이지 제작](https://github.com/LeeZEun/OSS_Project_WEB)
 ### ☘️ 2023-1
 - [칼로리 계산 인공지능 시스템 'CICC' 제작](https://github.com/LeeZEun/2023S-Ajou-ML/blob/main/TeamProject_Calories_Calculator.ipynb)
 - [자전거 관리 어플리케이션 'S-BA' 제작](https://github.com/safe-bicycle-assistant/s-ba)
