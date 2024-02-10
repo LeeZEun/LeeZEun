@@ -4,10 +4,8 @@
 
 # 🖥️ Jieun Lee's Github 🖥️ </br></br> Welcome to visit
 
-<a href="https://github.com/LeeZEun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=LeeZEun&show_icons=true&include_all_commits=true&theme=nord&hide_border=true" alt="SOKURI's github stats" /></a>
-
-<a href="https://github.com/LeeZEun"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeeZEun&layout=compact&theme=nord&hide_border=true" /></a> </br></br>
-
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
