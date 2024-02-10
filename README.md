@@ -24,7 +24,7 @@
 # 💚 Introduction 💚
 <img width="200px" src="https://github.com/BuddlIes/FrontEnd/assets/100847440/114a2fda-8af6-488a-a968-e0c1c4a80cf9"/>|
 |:-----:|
-|[Jieun Lee](https://github.com/LeeZEun)|
+|Jieun Lee (1999.04.20)|
 |Frontend Developer|
 |thwe2g@gmail.com|
 </div>
