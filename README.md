@@ -18,7 +18,7 @@
 
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA%20CE-0000CD?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
 <br/><br/></br>
 
 # 💚 Introduction 💚
