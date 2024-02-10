@@ -26,8 +26,8 @@
 |:-----:|
 |[Jieun Lee](https://github.com/LeeZEun)|
 |Frontend Developer|
+|thwe2g@gmail.com|
 </div>
-Email: thwe2g#gmail.com
 <br/><br/></br>
 
 <div align="center">
