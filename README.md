@@ -71,7 +71,7 @@
 - [종합적인 화장품 관리 및 추천 어플리케이션 'BeautyMinder' 제작](https://github.com/beminder/BeautyMinder)
 - [교내 장애 학우들을 위한 봉사 장려 웹 '버들' 제작](https://github.com/BuddlIes/BackEnd)
 ### ☘️ 2024-1
-- ['TravelBlog' 제작]
+- ['TravelBlog' 제작] - 진행 중
 
 ## 
 <br/><br/></br>
