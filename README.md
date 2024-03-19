@@ -89,4 +89,19 @@
 
 <div align="center">
 
+# ✍️ Awards ✍️
+</div>
+
+### ☘️ 2022
+- Ericsson LG ‘Girls in ICT 2022’ 해커톤 대회 결선 진출 (2022.11.23)
+-	고려대학교 산학협력단 ‘소아 엑스레이 데이터 과제’ 데이터톤 우수상 (2022.11.27)
+
+### ☘️ 2023
+- 아주대학교 SW중심대학 ‘2023-2 AOU SOFTCON’ 인기상 (2023.12.07)
+
+##
+<br/><br/></br>
+
+<div align="center">
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" />
