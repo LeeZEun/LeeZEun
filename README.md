@@ -77,5 +77,16 @@
 <br/><br/></br>
 
 <div align="center">
+  
+# ✍️ Education ✍️
+</div>
+
+### ☘️ 2024
+- [솔트룩스 3기 채용연계형 AI 융합 서비스 개발자 양성과정 교육](https://www.notion.so/dearyou-th/dd5958c5371c4b1ea07abc57b4b976be?v=feadca0f80ed44c48b3af3a3d0a8dd6a&pvs=4) - 이수 중
+
+##
+<br/><br/></br>
+
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer" />
