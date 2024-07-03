@@ -78,7 +78,7 @@
 
 <div align="center">
   
-# ✍️ Education ✍️
+# ✍️ Educations ✍️
 </div>
 
 ### ☘️ 2024
