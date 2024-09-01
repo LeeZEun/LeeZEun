@@ -72,6 +72,7 @@
 - [교내 장애 학우들을 위한 봉사 장려 웹 '버들' 제작](https://github.com/BuddlIes/BackEnd)
 ### ☘️ 2024-1
 - [여행 기록 블로그 'TravelBlog' 제작](https://github.com/LeeZEun/TravelBlog) - 진행 중
+- [여행 일정 생성 챗봇 및 커뮤니티 웹 'TripFlow' 제작] (https://github.com/TripFlow)
 
 ## 
 <br/><br/></br>
@@ -82,7 +83,7 @@
 </div>
 
 ### ☘️ 2024
-- [솔트룩스 3기 채용연계형 AI 융합 서비스 개발자 양성과정 교육](https://www.notion.so/dearyou-th/dd5958c5371c4b1ea07abc57b4b976be?v=feadca0f80ed44c48b3af3a3d0a8dd6a&pvs=4) - 이수 중
+- [빅데이터 플랫폼 기반 AI 융합 서비스 개발자 양성과정 교육](https://www.notion.so/dearyou-th/dd5958c5371c4b1ea07abc57b4b976be?v=feadca0f80ed44c48b3af3a3d0a8dd6a&pvs=4)
 
 ##
 <br/><br/></br>
@@ -98,6 +99,9 @@
 
 ### ☘️ 2023
 - 아주대학교 SW중심대학 ‘2023-2 AOU SOFTCON’ 인기상 (2023.12.07)
+
+### ☘️ 2024
+- 한국소프트웨어산업협회 ‘빅데이터 플랫폼 기반 AI 융합 서비스 개발자 양성과정 최종프로젝트 발표회’ 최우수상 (2024.08.30)
 
 ##
 <br/><br/></br>
