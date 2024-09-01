@@ -72,7 +72,7 @@
 - [교내 장애 학우들을 위한 봉사 장려 웹 '버들' 제작](https://github.com/BuddlIes/BackEnd)
 ### ☘️ 2024-1
 - [여행 기록 블로그 'TravelBlog' 제작](https://github.com/LeeZEun/TravelBlog) - 진행 중
-- [여행 일정 생성 챗봇 및 커뮤니티 웹 'TripFlow' 제작] (https://github.com/TripFlow)
+- [여행 일정 생성 챗봇 및 커뮤니티 웹 'TripFlow' 제작](https://github.com/orgs/KOSA-DDABONG/repositories)
 
 ## 
 <br/><br/></br>
