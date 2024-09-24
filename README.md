@@ -43,6 +43,8 @@
 ### ☘️ 2023
 - '플로우교육(사이언스카이)' 과학 강사 (5개월)
 - 아주대 '시스템프로그래밍 및 실습' 조교 (4개월)
+### ☘️ 2024
+- Saltlux 인턴 (3개월)
 ## 
 <br/><br/></br>
 
@@ -69,7 +71,7 @@
 ### ☘️ 2024-1
 - [여행 일정 생성 챗봇 및 커뮤니티 웹 'TripFlow' 제작](https://github.com/orgs/KOSA-DDABONG/repositories)
 ### ☘️ 2024-2
-- [여행 기록 블로그 'TravelBlog' 제작](https://github.com/LeeZEun/TravelBlog) - 진행 중
+- ...
 
 ## 
 <br/><br/></br>
