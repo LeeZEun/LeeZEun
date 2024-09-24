@@ -4,8 +4,6 @@
 
 # 🖥️ Jieun Lee's Github 🖥️ </br></br> Welcome to visit
 
-<img src="https://img.shields.io/badge/Github-000000?style=for-the-badge&logo=github&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Flutter-02CCFE?style=for-the-badge&logo=flutter&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Android%20Studio-3DA200?style=for-the-badge&logo=androidstudio&logoColor=white"/>
@@ -13,8 +11,6 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </br>
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/IntelliJ%20IDEA%20CE-0000CD?style=for-the-badge&logo=intellijidea&logoColor=white"/>
 
