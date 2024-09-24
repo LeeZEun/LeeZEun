@@ -52,7 +52,7 @@
 </div>
 
 ### ☘️ 2022-1
-- 쓰레기통 자동 관리 시스템 'AWMS' 제작
+- [쓰레기통 자동 관리 시스템 'AWMS' 제작](https://drive.google.com/drive/folders/1LlkRdUXUwgFemN4IfUMTT4xKksc_FANk?usp=sharing)
 ### ☘️ 2022-2
 - [육아 도우미 시스템 'HERMES' 제작](https://github.com/LeeZEun/HERMES)
 - ['이기종 플랫폼 간 UI 분산 지원을 위한 모바일 프레임워크' 연구](https://github.com/LeeZEun/WEB_FLUID)
@@ -62,7 +62,7 @@
 ### ☘️ 2023-1
 - [칼로리 계산 인공지능 시스템 'CICC' 제작](https://github.com/LeeZEun/2023S-Ajou-ML/blob/main/TeamProject_Calories_Calculator.ipynb)
 - [자전거 관리 어플리케이션 'S-BA' 제작](https://github.com/safe-bicycle-assistant/s-ba)
-- ADHD 아동을 위한 시리어스 게임 'MIXMATCH' 기획
+- [ADHD 아동을 위한 시리어스 게임 'MIXMATCH' 기획](https://drive.google.com/drive/folders/1iopZWO1eztgGyOOL9i_xteiDIoUUlUQ6?usp=drive_link)
 ### ☘️ 2023-2
 - [종합적인 화장품 관리 및 추천 어플리케이션 'BeautyMinder' 제작](https://github.com/beminder/BeautyMinder)
 - [교내 장애 학우들을 위한 봉사 장려 웹 '버들' 제작](https://github.com/BuddlIes/BackEnd)
